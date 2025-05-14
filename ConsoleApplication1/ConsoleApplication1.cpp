@@ -18,7 +18,7 @@ int main() {
         {"Cau hoi 4: Mon the thao nao có ten goi 'Mon the thao vua'?", {"- Bong ro", "- Bong chuyen", "- Bong da", "- Quan vot"}, 2},
         {"Cau hoi 5: Ngay sinh cua chu tich Ho Chi Minh ?", {"- 19/5/1980", "- 22/4/1980", "- 12/5/1980", "- 19/5/1982"}, 0},
         {"Cau hoi 6: Quoc gia nao co dien tich lon nhat the gioi ?", {"- Trung Quoc", "- Canada", "- Hoa Ky", "- Nga"}, 3},
-        {"Cau hoi 7: Viet Nam co bao nhieu tinh thanh?", {"- 58 tinh, 2 thanh pho truc thuoc trung uong", "- 60 tinh, 3 thành phố trực thuộc trung ương", "- 65 tỉnh, 5 thành phố trực thuộc trung ương", "- 63 tỉnh, 5 thành phố trực thuộc trung ương"}, 3},
+        {"Cau hoi 7: Viet Nam co bao nhieu tinh thanh?", {"- 58 tinh, 2 thanh pho truc thuoc trung uong", "- 60 tinh, 3 thanh pho truc thuoc trung uong", "- 65 tinh, 5 thanh pho truc thuoc trung uong", "- 63 tinh, 5 thanh pho truc thuoc trung uong"}, 3},
         {"Câu hoi 8: He mat troi co bao nhieu hanh tinh?", {"- 8", "- 9", "- 10", "- 7"}, 0},
         {"Câu hoi 9: Ai la tac gia cua 'Vo Chong A Phu'?", {"- To Hoai", "- Nguyen Minh Chau", "- Nguyen Tuan", "- Nam Cao"}, 0},
         {"Câu hoi 10: Nuoc nao san xuat nhieu ca phe nhat the gioi?", {"- Viet Nam", "- Brazil", "- Colombia", "- Ethiopia"}, 1}
